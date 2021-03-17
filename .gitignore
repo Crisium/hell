@@ -1,0 +1,8 @@
+dist/
+obj/
+bin/
+node_modules/
+.vs/
+app.js.map
+app.js
+dock_boilerplate.csproj.user
