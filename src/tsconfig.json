@@ -1,14 +1,14 @@
 {
 	"compilerOptions": {
+		"module": "commonjs",
 		"declaration": true,
-		"sourceRoot": "./src",
-		"outDir": "dist",
+		"sourceRoot": "./",
+		"outDir": "../dist/src",
 		"noImplicitAny": false,
 		"noEmitOnError": true,
 		"removeComments": false,
 		"sourceMap": true,
 		"target": "ES2020",
-		"module": "commonjs",
 		"lib": [ "es2020", "dom" ],
 		"typeRoots": [],
 		"types": [ "node"],
